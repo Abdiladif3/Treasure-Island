@@ -1,3 +1,3 @@
 # Treasure-Island
 
-Game that lets you choose your own adventure with as each choice gives you different options.
+Game that lets you choose your own adventure as each choice gives you different results.
